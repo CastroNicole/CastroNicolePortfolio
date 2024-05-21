@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "MedXpert Backend",
-    description: "MedXpert is a comprehensive medicine database where users can view, rate, and review medicines. I designed the UI and contributed to the frontend, making sure the platform was intuitive and user-friendly.",
+    description: "MedXpert is a comprehensive medicine database where users can view, rate, and review medicines. I designed the UI and contributed to the frontend, making sure the platform was intuitive and user-friendly. DISCLAIMER: I did not get myself involved in any of the backend development.",
     image: "/images/projects/med.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/SherwinSaga/Medxpert_backend",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "Metro Events",
-    description: "Metro Events is a React.js project aimed at event management. Users can create or join events making it a versatile platform for social and professional gatherings. I was responsible for the entire design and UI, ensuring a seamless and engaging user experience.",
+    description: "Metro Events is a React.js project aimed at event management. Users can create or join events making it a versatile platform for social and professional gatherings. I was responsible for the entire design and UI, ensuring a seamless and engaging user experience. DISCLAIMER: I did not get myself involved in any of the backend development.",
     image: "/images/projects/metro.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/SherwinSaga/Metro_Eventss",
